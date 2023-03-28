@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pyankov Daniil</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pyankovdaniil&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true&include_all_commits=true" style="padding-top:23px;"/>
 
 - 👀 I'm interested in Backend
 - 👨‍💻 I write code in Java
